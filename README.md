@@ -50,6 +50,6 @@ Note: Le mode pause savon cheveux ferme l`eau et arrete le décompte de la minut
 
 La valve ferme jamais complètement pour enlever le pression dans la tuyautrie. 
 
-![](/Create%20Schematic_Shower%20Timer_2021-06-26.png)
+![](Schematic_Shower%20Timer_2021-06-26.png)
 
 
