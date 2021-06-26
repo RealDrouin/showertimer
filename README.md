@@ -49,3 +49,7 @@ Activé la minuterie :
 Note: Le mode pause savon cheveux ferme l`eau et arrete le décompte de la minuterie pour un delay maximun de 3 min, après se delay la minuterie ouvre la valve et continue en mode normal.
 
 La valve ferme jamais complètement pour enlever le pression dans la tuyautrie. 
+
+![](Images/1.jpg)
+
+
